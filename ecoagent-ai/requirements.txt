@@ -1,0 +1,26 @@
+# --- Core UI & Analytics ---
+streamlit==1.35.0
+streamlit-option-menu==0.3.12
+plotly==5.22.0
+pandas==2.2.2
+matplotlib==3.8.4
+
+# --- AI & LLM ---
+google-generativeai==0.5.2
+langchain==0.2.1
+langchain-google-genai==1.0.5
+langchain-community==0.2.1
+langchain-chroma==0.1.1
+langchain-text-splitters==0.2.0
+langchain-huggingface==0.0.1
+sentence-transformers==3.0.0
+
+# --- Vector Store & PDF ---
+chromadb==0.5.0
+pymupdf==1.24.4
+pypdf==4.2.0
+reportlab==4.2.0
+
+# --- Utilities ---
+python-dotenv==1.0.1
+tqdm==4.66.4

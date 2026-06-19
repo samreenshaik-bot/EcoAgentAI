@@ -242,3 +242,6 @@ This project directly contributes to:
 - **SDG 7 (Affordable and Clean Energy)**: Promoting energy efficiency via consumption analysis.
 - **SDG 12 (Responsible Consumption and Production)**: Encouraging sustainable habits through data.
 - **SDG 13 (Climate Action)**: Reducing individual carbon footprints through AI-driven insights.
+
+#check out in application: https://ecoagentai.onrender.com/
+
